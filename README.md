@@ -133,6 +133,8 @@ Our vision is to democratize the voting process by creating an accessible, trans
 
 ### Contract Address
 0xEE5c3a6C0D63FB6703DA93FdC39ceB7dF7b2074A
+<img width="1778" height="875" alt="Screenshot 2025-07-28 125804" src="https://github.com/user-attachments/assets/48173d81-87a1-4acc-a1a5-eae14157122d" />
+
 
 This simple voting project represents a foundational step toward transparent, secure, and accessible digital democracy, providing the building blocks for more sophisticated democratic processes in the digital age.
 
