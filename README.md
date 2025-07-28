@@ -275,6 +275,9 @@ Found a bug? Have a feature request?
 - **React Team** - For the amazing frontend framework
 - **Tailwind CSS** - For beautiful, utility-first styling
 
+## Contract Address
+0xEE5c3a6C0D63FB6703DA93FdC39ceB7dF7b2074A
+
 ---
 
 **Made with ❤️ by the QuickPay Team**
